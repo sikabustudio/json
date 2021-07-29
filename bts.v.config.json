@@ -1,7 +1,7 @@
 {
     "app_version": "1.0.1",
     "config_version": "1.0.0",
-    "source": "sikabustudio",
+    "source": "github",
     "force_update": true,
 
     "path": "ck_eyd/bts.v",
