@@ -1,0 +1,23 @@
+{
+  "app_version": "1.2.0",
+  "config_version": "1.0.4",
+  "source": "github",
+  "force_update": false,
+  "path": "dye.tam_1/stb.nimij",
+  "sub_path": "nimij.trap.",
+  "ignore_page": -1,
+  "last_page": 5,
+  "admob_app_id": "ca-app-pub-1434451780549044~8876118283",
+  "admob_banner_id": "ca-app-pub-1434451780549044/8780749511",
+  "admob_interstitial_id": "ca-app-pub-1434451780549044/6290317544",
+  "ad_startapp_app_id": "207106536",
+  "ad_unity_game_id": "4273885",
+  "ad_unity_banner_id": "Banner_Android",
+  "ad_unity_interstitial_id": "Interstitial_Android",
+  "ad_channels": [
+    "admob",
+    "unity",
+    "startapp"
+  ],
+  "ad_main_channel": "unity"
+}
