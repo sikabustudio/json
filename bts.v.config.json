@@ -1,7 +1,7 @@
 {
   "app_version": "1.2.0",
   "config_version": "1.0.4",
-  "source": "local",
+  "source": "github",
   "force_update": false,
   "path": "ck_eyd/bts.v",
   "sub_path": "v.part.",
