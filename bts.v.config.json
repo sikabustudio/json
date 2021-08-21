@@ -1,7 +1,7 @@
 {
-  "app_version": "1.1.0",
+  "app_version": "1.2.0",
   "config_version": "1.0.4",
-  "source": "github",
+  "source": "local",
   "force_update": false,
   "path": "ck_eyd/bts.v",
   "sub_path": "v.part.",
@@ -11,12 +11,14 @@
   "admob_banner_id": "ca-app-pub-1434451780549044/3847548694",
   "admob_interstitial_id": "ca-app-pub-1434451780549044/4585560071",
   "ad_startapp_app_id": "206098712",
+  "interstitial_interval": 3,
   "ad_unity_game_id": "4267147",
   "ad_unity_banner_id": "Banner_Android",
   "ad_unity_interstitial_id": "Interstitial_Android",
-  "interstitial_interval": 3,
   "ad_channels": [
-    "admob","unity","startapp"
+    "admob",
+    "unity",
+    "startapp"
   ],
-  "ad_main_channel": "admob"
+  "ad_main_channel": "unity"
 }
