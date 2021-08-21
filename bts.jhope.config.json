@@ -1,6 +1,6 @@
 {
-  "app_version": "1.0.1",
-  "config_version": "1.0.1",
+  "app_version": "1.2.0",
+  "config_version": "1.0.4",
   "source": "github",
   "force_update": false,
   "path": "ck_eyd/bts.jhope",
@@ -11,5 +11,13 @@
   "admob_banner_id": "ca-app-pub-1434451780549044/4347403261",
   "admob_interstitial_id": "ca-app-pub-1434451780549044/2842749909",
   "ad_startapp_app_id": "207589790",
-  "interstitial_interval": 3
+  "ad_unity_game_id": "4267199",
+  "ad_unity_banner_id": "Banner_Android",
+  "ad_unity_interstitial_id": "Interstitial_Android",
+  "ad_channels": [
+    "admob",
+    "unity",
+    "startapp"
+  ],
+  "ad_main_channel": "unity"
 }
