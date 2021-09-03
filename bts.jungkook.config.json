@@ -1,17 +1,16 @@
 {
-  "app_version": "1.2.0",
+  "app_version": "1.2.1",
   "config_version": "1.0.4",
   "source": "github",
   "force_update": false,
-  "path": "ck_eyd/bts.jungkook",
-  "sub_path": "jungkook.part.",
+  "path": "dye.t.am_1/stb.kookgnuj",
+  "sub_path": "kookgnuj.trap.",
   "ignore_page": -1,
-  "last_page": 4,
+  "last_page": 5,
   "admob_app_id": "ca-app-pub-1434451780549044~6826135053",
   "admob_banner_id": "ca-app-pub-1434451780549044/5321481691",
   "admob_interstitial_id": "ca-app-pub-1434451780549044/6457086505",
   "ad_startapp_app_id": "207039344",
-  "interstitial_interval": 3,
   "ad_unity_game_id": "4267201",
   "ad_unity_banner_id": "Banner_Android",
   "ad_unity_interstitial_id": "Interstitial_Android",
@@ -20,5 +19,6 @@
     "unity",
     "startapp"
   ],
-  "ad_main_channel": "unity"
+  "ad_main_channel": "unity",
+  "interstitial_interval": 5
 }
