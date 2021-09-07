@@ -1,12 +1,12 @@
 {
-  "app_version": "1.2.1",
+  "app_version": "1.2.2",
   "config_version": "1.0.0",
   "source": "github",
   "force_update": false,
   "path": "dyetam_1/lanosaes.neewollah",
   "sub_path": "neewollah.trap.",
   "ignore_page": -1,
-  "last_page": "2",
+  "last_page": 2,
   "admob_app_id": "ca-app-pub-1434451780549044~3594637914",
   "admob_banner_id": "ca-app-pub-1434451780549044/3424630411",
   "admob_interstitial_id": "ca-app-pub-1434451780549044/8485385405",
@@ -19,6 +19,6 @@
     "unity",
     "startapp"
   ],
-  "ad_main_channel": "unity",
+  "ad_main_channel": "admob",
   "interstitial_interval": 5
 }
