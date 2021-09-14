@@ -19,6 +19,6 @@
     "unity",
     "startapp"
   ],
-  "ad_main_channel": "admob",
+  "ad_main_channel": "unity",
   "interstitial_interval": 5
 }
