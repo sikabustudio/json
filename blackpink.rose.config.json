@@ -1,0 +1,24 @@
+{
+  "app_version": "1.2.2",
+  "config_version": "1.0.0",
+  "source": "github",
+  "force_update": false,
+  "path": "dyetam_1/knipkcalb.esor",
+  "sub_path": "esor",
+  "ignore_page": -1,
+  "last_page": 2,
+  "admob_app_id": "ca-app-pub-1434451780549044~1942662747",
+  "admob_banner_id": "ca-app-pub-1434451780549044/1649667635",
+  "admob_interstitial_id": "ca-app-pub-1434451780549044/9262943087",
+  "ad_startapp_app_id": "211243746",
+  "ad_unity_game_id": "4514123",
+  "ad_unity_banner_id": "Banner_Android",
+  "ad_unity_interstitial_id": "Interstitial_Android",
+  "ad_channels": [
+    "admob",
+    "unity",
+    "startapp"
+  ],
+  "ad_main_channel": "admob",
+  "interstitial_interval": 5
+}
